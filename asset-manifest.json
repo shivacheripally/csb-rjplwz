@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivacheripally.github.io/csb-rjplwz/static/css/main.2ab52191.chunk.css",
+    "main.js": "https://shivacheripally.github.io/csb-rjplwz/static/js/main.51b7a31c.chunk.js",
+    "main.js.map": "https://shivacheripally.github.io/csb-rjplwz/static/js/main.51b7a31c.chunk.js.map",
+    "runtime-main.js": "https://shivacheripally.github.io/csb-rjplwz/static/js/runtime-main.25fc5ab0.js",
+    "runtime-main.js.map": "https://shivacheripally.github.io/csb-rjplwz/static/js/runtime-main.25fc5ab0.js.map",
+    "static/js/2.d5e89779.chunk.js": "https://shivacheripally.github.io/csb-rjplwz/static/js/2.d5e89779.chunk.js",
+    "static/js/2.d5e89779.chunk.js.map": "https://shivacheripally.github.io/csb-rjplwz/static/js/2.d5e89779.chunk.js.map",
+    "index.html": "https://shivacheripally.github.io/csb-rjplwz/index.html",
+    "static/css/main.2ab52191.chunk.css.map": "https://shivacheripally.github.io/csb-rjplwz/static/css/main.2ab52191.chunk.css.map",
+    "static/js/2.d5e89779.chunk.js.LICENSE.txt": "https://shivacheripally.github.io/csb-rjplwz/static/js/2.d5e89779.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25fc5ab0.js",
+    "static/js/2.d5e89779.chunk.js",
+    "static/css/main.2ab52191.chunk.css",
+    "static/js/main.51b7a31c.chunk.js"
+  ]
+}
